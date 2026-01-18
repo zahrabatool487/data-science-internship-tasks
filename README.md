@@ -1,4 +1,4 @@
-# Data Science Internship Tasks
+# AI & Data Science Internship Task01
 
 ## Task 1: Data Handling with NumPy & Pandas
 
