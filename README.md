@@ -1,6 +1,6 @@
-# AI & Data Science Internship Task01
+# Data Handling with NumPy & Pandas
 
-## Task 1: Data Handling with NumPy & Pandas
+## Data Handling with NumPy & Pandas
 
 ### Objective
 The objective of this task is to build a strong foundation in data handling using NumPy and pandas. The focus is on loading, inspecting, cleaning, and preparing a real-world dataset for further analysis.
